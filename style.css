@@ -1,0 +1,31 @@
+body{
+  text-align:center;
+  background-color:#64FFDA;
+}
+hi{
+  text-shadow:2px 2px #F8BBDO
+}
+#p{
+  padding:20;
+  font-size:18;
+  text-align:center;
+}
+#h{
+  padding:20;
+  font-size:18;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color:black;
+}
+#myName{
+    font-family: 'courgette',cursive;
+}
+html{
+    scroll-behavior: smooth;
+}
